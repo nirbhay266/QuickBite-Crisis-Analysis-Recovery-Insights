@@ -116,6 +116,11 @@ Packaging failure
 Late delivery
 
 SLA% strongly influences ratings
+
+
+
+
+
 <img width="681" height="383" alt="Review" src="https://github.com/user-attachments/assets/e9197802-ea53-4661-ae2d-aea2eb316338" />
 
 
@@ -130,6 +135,10 @@ Customers shifted from premium meals → low-value survival meals
 Negative sentiment spiked during service outages
 
 High-value loyal customers showed strongest churn
+
+
+
+
 <img width="681" height="386" alt="Summary" src="https://github.com/user-attachments/assets/d97446fc-2cbb-4661-8acd-7c5dbbce32f0" />
 
 
