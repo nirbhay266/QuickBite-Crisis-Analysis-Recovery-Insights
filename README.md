@@ -9,6 +9,8 @@ Purpose:
 
 This is the main navigation screen of the report.
 Users can click icons to move to Customer, Delivery, Restaurant, Summary, or Review dashboards.
+
+
 <img width="703" height="395" alt="Home" src="https://github.com/user-attachments/assets/92a26f66-ccea-46c9-92c1-2b3edbe30d82" />
 
 
@@ -17,7 +19,11 @@ Purpose:
 
 Shows how customer behavior changed during the crisis — orders, loyalty, churn, cuisine preference, city distribution, and revenue loss.
 
+
+
 <img width="681" height="383" alt="Customer" src="https://github.com/user-attachments/assets/d01ed836-a8cf-4618-9d06-9663676fdbfa" />
+
+
 
 
 Key Customer Insights
@@ -54,6 +60,9 @@ Avg delivery time slightly improved
 Highest cancellation: Mumbai, Delhi
 
 Partner ratings remained stable
+
+
+
 <img width="682" height="385" alt="Delivery" src="https://github.com/user-attachments/assets/a4d9ce43-5a54-40e8-90db-dc20c7220be5" />
 
 
@@ -75,6 +84,9 @@ Bengaluru, Chennai most impacted
 Premium meals collapsed; basic meals survived
 
 Revenue loss: ₹48.56M
+
+
+
 <img width="680" height="384" alt="Restuarent" src="https://github.com/user-attachments/assets/bd252fae-7cc2-4228-8360-fce5233661df" />
 
 
