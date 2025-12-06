@@ -1,4 +1,4 @@
-<img width="681" height="383" alt="Customer" src="https://github.com/user-attachments/assets/c3f026ae-28d1-4150-81c3-ee9d9c740b7f" />📊 QuickBite Crisis Analysis & Recovery Dashboard
+📊 QuickBite Crisis Analysis & Recovery Dashboard
 
 A complete end-to-end Power BI analytics case study showing how QuickBite’s orders, revenue, customers, restaurants, delivery performance, and sentiment were impacted during the 2025 crisis.
 
@@ -118,7 +118,7 @@ Customers shifted from premium meals → low-value survival meals
 Negative sentiment spiked during service outages
 
 High-value loyal customers showed strongest churn
-![Uploading Summary.png…]()
+<img width="681" height="386" alt="Summary" src="https://github.com/user-attachments/assets/d97446fc-2cbb-4661-8acd-7c5dbbce32f0" />
 
 
 Recovery requires:
