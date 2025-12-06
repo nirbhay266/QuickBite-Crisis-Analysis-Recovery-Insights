@@ -1,8 +1,52 @@
-📊 QuickBite Crisis Analysis & Recovery Dashboard
+# 📊 QuickBite Crisis Analysis & Recovery Dashboard
+A Complete Data Analytics Case Study using Power BI + SQL
 
-A complete end-to-end Power BI analytics case study showing how QuickBite’s orders, revenue, customers, restaurants, delivery performance, and sentiment were impacted during the 2025 crisis.
+This project analyzes the sudden decline in QuickBite’s business performance during the 2025 crisis period.
+A full analytical framework was built covering customers, delivery partners, restaurants, sentiment, and revenue recovery insights.
 
-This project analyzes the root causes, metrics, and recovery strategy through 5 interactive dashboards.
+This repository includes:
+✔ Power BI Dashboards
+✔ SQL Queries
+✔ DAX Measures
+✔ Complete business insights
+✔ Screenshots for all dashboards
+✔ Crisis recovery recommendations
+
+## 🧩 Project Overview
+
+QuickBite—a food delivery platform—experienced a major business crisis in mid-2025 due to food safety incidents, delivery outages, and supply disruptions.
+This led to a ~70% drop in demand, massive customer churn, and heavy revenue losses.
+
+This project analyzes:
+
+Demand decline & revenue impact
+
+Customer churn patterns
+
+Delivery delays & SLA performance
+
+Restaurant-wise decline
+
+Sentiment analysis on reviews
+
+Recovery strategy for business turnaround
+
+## 🎯 Key Business Questions Answered
+
+Which cities faced maximum decline in orders and revenue?
+
+Which restaurant categories were most affected?
+
+How did delivery performance change during the crisis?
+
+Which customers are high-risk vs high-value?
+
+Which cuisines contribute the most revenue?
+
+What sentiment trends were seen during the outage period?
+
+What recovery strategies should QuickBite implement?
+
 
 # 🏠 1. Home Navigation Dashboard
 Purpose:
