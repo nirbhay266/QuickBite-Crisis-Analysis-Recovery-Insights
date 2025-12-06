@@ -204,3 +204,19 @@ Recovery requires:
 
 # 👨‍💻 Developed By
 Nirbhay Kumar
+
+## 🌐 Live Power BI Dashboard (Interactive)
+
+Experience the full interactive version of the QuickBite Crisis Analysis Dashboard:
+
+👉 **Live Link:** https://app.powerbi.com/view?r=eyJrIjoiYzE1YTI0NjktZmY0ZC00NTlmLTg3MWYtNWVjMTk2M2RmYzc0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+This report contains:
+- 📉 Crisis Impact Overview  
+- 👥 Customer Performance  
+- 🚚 Delivery SLA Analysis  
+- 🍽️ Restaurant Trend Breakdown  
+- ⭐ Rating & Review Sentiment  
+- 📝 Executive Summary  
+
+
